@@ -1,7 +1,4 @@
 # Bitcoin-CLI
 
 
-
-
-https://user-images.githubusercontent.com/40217599/160222873-06a5315c-f230-43d9-aa80-fdb0a0851e1f.mp4
-
+<img src="https://user-images.githubusercontent.com/40217599/160240846-3b4cc9d0-a15b-4315-b3a4-b5cc9ad6862b.gif" width="" >
